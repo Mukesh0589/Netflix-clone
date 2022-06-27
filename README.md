@@ -18,5 +18,5 @@ My React.js implementation of Netflix. Movie data was pulled from TMDB and trail
 
 ## Screenshots
 
-![](screenshot.png)
-![](screenshot1.png)
+![](Screenshot.png)
+![](Screenshot2.png)
