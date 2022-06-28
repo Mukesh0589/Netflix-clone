@@ -14,7 +14,8 @@ My React.js implementation of Netflix. Movie data was pulled from TMDB and trail
 
 * **[React](https://reactjs.org/)**
 * **[Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
-* **[Node.js](https://nodejs.org/en/)**
+* **[HTML](https://html.com/)**
+* **[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## Screenshots
 
